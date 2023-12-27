@@ -10,7 +10,7 @@
 |권재성|김민희|
 |:---:|:---:|
 |Data, BE|Data, FE|
-|[@KimSH39](https://github.com/jeilbitna)|[@heehminh](https://github.com/heehminh)|
+|[@jeilbitna](https://github.com/jeilbitna)|[@heehminh](https://github.com/heehminh)|
 
 <br />
 
